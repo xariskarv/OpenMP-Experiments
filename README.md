@@ -6,7 +6,7 @@ This project tries to parallellize common algorithms and it shows the speedup th
  * Backsub (Backward substitution) . Backward substitution is the method which is used after Gaussian Elimination, to solve large linear systems.
  * String matching (Calculates how many times a specific word can be found in a large text file).
 
-In this project the file that is being used for the string matching algorithm is the **enwik8.zip** can be downloaded from here: https://mattmahoney.net/dc/textdata.html 
+In this project the file that is being used for the string matching algorithm is the **enwik8.zip** and can be downloaded from here: https://mattmahoney.net/dc/textdata.html 
 
 **_Important note!_** The parallel algorithms have been implemented using the **Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz 3.30 GHz** which has only 2 cores. If a CPU with more cores will be used, there might be a bigger speedup as the upper limit of number of threads which can be used will be increased.
 
