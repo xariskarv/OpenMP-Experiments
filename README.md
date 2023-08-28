@@ -33,6 +33,6 @@ The backward substitution algorithm cant be parallelized efficiently with the gi
 
 ![Backsub_Efficiency](https://github.com/xariskarv/OpenMP-Experiments/assets/125483991/f76a1a15-99fb-45d8-96a5-3fedc33d3d6a)
 
-It is clear that the parallel execution gives worse time and efficiency as the number of threads are being increased.
+It is clear that the parallel execution gives worse time and efficiency as the number of threads is being increased.
 
 
